@@ -1,5 +1,5 @@
 export default {
-  roots: ['<rootDir>/tests'],
+  //roots: ['<rootDir>/tests'],
   coverageDirectory: 'coverage',
   coverageProvider: 'babel',
   testEnvironment: 'node',
